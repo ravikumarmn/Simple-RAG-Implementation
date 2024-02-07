@@ -20,7 +20,6 @@ Before you can run the code in this repository, you need to obtain an API key fr
 
 
 
-    
 Click [![Google Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zauSTKnBwPxFsk8lGVOmOm-LthohqZ2-?usp=sharing) to access a Google Colab notebook that provides a hands-on experience with our Simple RAG model. This interactive notebook includes step-by-step instructions for setting up your environment, loading the model, and experimenting with RAG-generated responses.
 
 ## Usage
@@ -30,3 +29,4 @@ To use the Simple RAG model in your projects, follow the steps outlined in the G
 ```python
 import openai
 openai.api_key = 'YOUR_API_KEY'
+```
