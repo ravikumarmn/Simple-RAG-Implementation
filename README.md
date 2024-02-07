@@ -18,7 +18,10 @@ Before you can run the code in this repository, you need to obtain an API key fr
 
 - **Blog Post**: For a detailed explanation of the Simple RAG model, implementation details, and insights, check out our blog [Retrieval-Augmented Generation (RAG)](https://ravikumarmn.github.io/blogs/retrieval-augmented-generation-(rag)).
 
-- ![Google Colab Logo](https://colab.research.google.com/assets/colab-badge.svg) [Simple RAG Implementation Notebook](#): Click here to access a Google Colab notebook that provides a hands-on experience with our Simple RAG model. This interactive notebook includes step-by-step instructions for setting up your environment, loading the model, and experimenting with RAG-generated responses.
+
+
+    
+Click [![Google Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zauSTKnBwPxFsk8lGVOmOm-LthohqZ2-?usp=sharing) to access a Google Colab notebook that provides a hands-on experience with our Simple RAG model. This interactive notebook includes step-by-step instructions for setting up your environment, loading the model, and experimenting with RAG-generated responses.
 
 ## Usage
 
